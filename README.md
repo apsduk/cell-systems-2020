@@ -35,4 +35,4 @@ Controllers where designed by first running the respective design scripts ``desi
 **Reference**
 
 Alexander P. S. Darlington and Declan G. Bates "Architectures for combined transcriptional and translational
-resource allocation controllers", *to appear in* *Cell Systems* [doi: tbc](doi: "doi: tbc")
+resource allocation controllers", *Cell Systems, **11(4)***, 382-392.e9, 2020.    doi: [10.1016/j.cels.2020.08.014](https://doi.org/10.1016/j.cels.2020.08.014)
